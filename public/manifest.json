@@ -3,7 +3,7 @@
   "name": "Noty",
   "icons": [
       {
-          "src": "https://lh3.googleusercontent.com/Fp7tT2LEvV2YGCt6j7UG1LEP1Bc00NkADLmQ2nftmR339bBjdDehSaQAgsGhUgsWsko",
+          "src": "./noty.png",
           "type": "image/png",
           "sizes": "1024x1024"
       }
