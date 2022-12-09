@@ -2,7 +2,7 @@
   "name": "noty",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anas-awata.github.io",
+  "homepage": "https://anas-awata.github.io/noty",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
